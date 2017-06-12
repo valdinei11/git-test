@@ -2,5 +2,5 @@
 
 ## Aula Inicial
 
-Ass: Valdinei Ferreira
+Ass: Valdinei O. Ferreira
 Date: 17/6/12
