@@ -1,6 +1,8 @@
-# Curso Udemy de Git e Git Hub
+# Inicando Git e Git Hub
 
-## Aula Inicial
+## Teste Inicial
 
 Ass: Valdinei O. Ferreira
-Date: 17/6/12
+Date: 14/06/2017
+
+See you later!
